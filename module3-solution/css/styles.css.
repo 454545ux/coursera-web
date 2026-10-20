@@ -1,0 +1,18 @@
+/* Mobile dropdown menu: distinct background, spans the full window width */
+.navbar-collapse {
+  background-color: #cfe8cf;
+}
+
+.navbar-nav.visible-xs > li > a {
+  color: #222;
+  text-align: center;
+  border-bottom: 1px solid #222;
+}
+
+/* Menu sections */
+.menu-section {
+  background-color: #999;
+  min-height: 700px;
+  padding: 10px 15px;
+  margin-bottom: 30px;
+}
